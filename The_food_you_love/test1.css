@@ -1,0 +1,33 @@
+/* .box1{
+    position:relative;
+    background-color: red;
+    height: 100px;
+    width:100px;
+    top:40px;
+    left:40px;
+}
+.box2{
+    position:absolute;
+    background-color: green;
+    height: 100px;
+    width:100px;
+    top:40px;
+    left:40px;
+}
+.box3{
+    position:relative;
+    background-color: blue;
+    height: 100px;
+    width:100px;
+    top:40px;
+    left:40px;
+} */
+.box1{
+    background: url(img/heroimage.jpg);
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+.box2{
+    /* position: absolute; */
+}
